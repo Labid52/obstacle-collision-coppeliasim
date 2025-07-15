@@ -129,5 +129,6 @@ The **CoppeliaSim `.ttt` scene file** is required to run the simulation with the
 
 This project demonstrates **reactive behavior** in a mobile robot using real-time data from ultrasonic sensors to avoid obstacles and navigate autonomously. It utilizes both a **collision detection system with random turns** and a **Braitenberg-like algorithm** for continuous movement and obstacle avoidance.
 
+<img width="1696" height="870" alt="image" src="https://github.com/user-attachments/assets/58185585-66d0-4be7-b815-85705d0997a9" />
 
 
