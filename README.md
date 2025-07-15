@@ -66,15 +66,17 @@ The **CoppeliaSim `.ttt` scene file** is required to run the simulation with the
 
 ### Steps for Running the Simulation
 
-1. **Set Up CoppeliaSim**:
+1. **Clone or Download the Repository**:
+
+   * Clone the repository or download the files to your local machine.
+
+2. **Set Up CoppeliaSim**:
 
    * Open **CoppeliaSim** and **load the `pioneer_p3dx_wall.ttt` scene** file. This file contains the robot model and the environment setup.
 
      * In CoppeliaSim, go to **File** → **Open Scene** and select the `pioneer_p3dx_wall.ttt` file.
 
-2. **Clone or Download the Repository**:
 
-   * Clone the repository or download the files to your local machine.
 
 3. **Run the Python Script**:
 
